@@ -1,0 +1,184 @@
+/*
+Theme Name: Avada Child
+Description: Child theme for Avada theme
+Author: ThemeFusion
+Author URI: https://theme-fusion.com
+Template: Avada
+Version: 1.0.0
+Text Domain:  Avada
+*/
+.post-content h2 {
+    font-size: 22px!important;
+    font-weight: bold!important;
+}
+.fusion-main-menu ul li a {
+    font-size: 16px!important;
+    text-transform: uppercase;
+    border: none!important;
+}
+.fusion-main-menu ul .current-menu-item  a {
+    color: #0091CF!important;
+    border: none!important;
+}
+.fusion-main-menu ul li:hover a {
+    color: #0091CF!important;
+    border: none!important;
+}
+.fusion-secondary-header {
+    color: #fff!important;
+    background: #0091CF!important;
+    border: none!important;
+}
+.fusion-secondary-header a{
+    color: #fff!important;
+}
+.fusion-header {
+    background: #ccc!important;
+}
+#main a:hover {
+    color:#ED1C24!important ;
+    text-decoration: underline;
+}
+.fusion-login-box.fusion-login-align-center {
+    float: right;
+    width: 10%;
+}
+#main {
+    padding: 30px!important;
+}
+#search-3 {
+    margin-bottom: 0!important;
+}
+.dang-nhap a{
+    font-size: 16px;
+}
+#sidebar {
+    float: right !important;
+    width: 22% !important;
+}
+#content {
+    width: 76%!important;
+    padding-right: 2% !important;
+    border-right: 1px solid #ccc;
+}
+.single-navigation  {
+    display: none;
+}
+.congviecmoi .fusion-widget-area ul li {
+    width:48%;
+    float: left;
+    margin-right: 2%;  
+	max-height: 100px;
+    height: 90px; 
+}
+.congviecmoi .fusion-widget-area ul li a {
+    font-size: 18px;
+    display: block;
+    font-weight: bold;
+}
+.congviecmoi .fusion-widget-area ul li span {
+    font-style: italic;
+    color: #A0CE4E!important;
+}
+.heading, .fusion-title{
+    background: #0091CF none repeat scroll 0 0;
+    padding: 5px 10px;
+}
+.heading h4, .fusion-title h4 {
+    font-size: 18px!important;
+    font-weight: bold!important;
+    margin: 0!important;
+    color: #fff!important;
+}
+h4 {
+    font-size: 18px!important;
+    font-weight: bold!important;
+    color: #000!important;
+}
+#sidebar ul li a {
+    display: block;
+}
+#sidebar ul li span {
+    font-style: italic;
+    color: #A0CE4E!important;
+}
+#search-4 .search-table {
+    margin-top: 10px;
+}
+
+.sinhvien h2 {
+    margin-bottom: 10px!important;
+}
+.sinhvien .fusion-post-large, .nhatuyendung .fusion-post-large {
+    margin-bottom: 20px!important;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+.sinhvien .fusion-post-large .fusion-meta-info, .nhatuyendung .fusion-post-large .fusion-meta-info {
+    border: none;
+}
+.sinhvien .fusion-post-large p, .nhatuyendung .fusion-post-large p {
+    margin-bottom: 0!important;
+}
+.sinhvien .fusion-post-content h2 , .nhatuyendung .fusion-post-content h2{
+    font-weight: bold;
+}
+.post-content .simplr-message {
+    display: none;
+}
+.ok {
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+#respond  {
+    border-top: 2px solid #ccc;
+    padding-top: 15px;
+}
+#respond .fusion-title {
+    background: none;
+}
+#respond .fusion-title .title-sep-container {
+    display: none;
+}
+#comments .fusion-title {
+    display: none;
+}
+#footer a {
+    color: #fff!important;
+}
+#footer  .fusion-copyright-notice {
+    font-size: 14px;
+}
+.fusion-meta-info span{
+    color: #FF2F2F;
+}
+.post-content .fusion-blog-shortcode .post {
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.post-content .fusion-blog-shortcode .post .fusion-meta-info {
+    border: none;
+    margin-top: 0;
+}
+.post-content .fusion-blog-shortcode .post h2 {
+    margin-bottom: 10px!important;
+}
+.post-content p {
+    margin-bottom: 10px;
+}
+#posts-container .post  {
+    width:100%!important;
+    float: left;
+}
+.widget_recent_comments, .widget_archive, .widget_archive, .widget_meta, .about-author, .single-related-posts {
+    display: none!important;
+}
+.pagination {
+	width:100%;
+	float:left;
+	text-align:right;
+	
+}
